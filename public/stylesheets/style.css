@@ -12,7 +12,16 @@ a {
 }
 
 #zipcode-input {
-	font-size:1.8em;
-	padding:0.2em;
-	border-radius: ;
+	font-size:1.6em;
+	padding:0.4em;
+	border-radius: 5px;
+	border:1px solid #cccccc
+}
+
+#zipcode-btn {
+	font-size: 1.6em;
+	padding:0.4em;
+	border-radius: 5px;
+	border:1px solid #cccccc;
+	background-color: lightskyblue;
 }
